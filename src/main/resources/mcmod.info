@@ -1,0 +1,16 @@
+[
+{
+  "modid": "draftykites",
+  "name": "Drafty Kites",
+  "description": "Adds localised updrafts to Volarkites from The Betweenlands",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["RobertDropTable"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["thebetweenlands"]
+}
+]
